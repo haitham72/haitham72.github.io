@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#14181F"/>
+  <text x="50%" y="52%" dy="0.02em" text-anchor="middle" dominant-baseline="middle"
+        font-family="Archivo, Arial, sans-serif" font-weight="900" font-size="30"
+        letter-spacing="-1.5" fill="#FAFAF7">HM</text>
+  <rect x="14" y="46" width="36" height="3" fill="#3a6ea5"/>
+</svg>
